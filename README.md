@@ -25,11 +25,6 @@ Filename | Description
 [4. additional resources.md](</.instructions/4. additional resources.md>) | Additional resources for participants to explore after the workshop.
 
 
-## Running a workshop?
-
-If you're planning to run a GitHub Copilot workshop, please review the [workshop guide](</.instructions/workshop organisers.md>) for tips and tricks to help you run a successful workshop. 
-
-
 ## Project Structure
 
 In this project you will find: 
@@ -40,8 +35,6 @@ In this project you will find:
 * an `.instructions` folder all the instructions for this workshop.
 * an `assets` folder containing images used in this workshop documentation.
 
-
-
 ## FAQ 
 
 - **How do I get a GitHub Copilot license?**
@@ -50,13 +43,3 @@ In this project you will find:
     - Codespaces is included with GitHub Enterprise Cloud, GitHub Enterprise Server, and GitHub Free. You can check under your [billing settings page](https://github.com/settings/billing).
 - **I am having trouble activating GitHub Copilot after I load the plugin, what should I do?**
     - This could be because you launched your Codespace before you activated GitHub Copilot or accepted the invitation to the trial org. Please try to reload your Codespace and try again.
-
-## Acknowledgements
-
-A special thanks to the following awesome Hubbers who have contributed in many different ways to our workshops. 
-[pierluigi](https://github.com/pierluigi), [parroty](https://github.com/yuichielectric), [yuichielectric](https://github.com/yuichielectric), [dchomh](https://github.com/dchomh), [nolecram](https://github.com/nolecram), [rsymo](https://github.com/rsymo), [damovisa](https://github.com/damovisa) and anyone else I've inadvertently missed.
-
-Enjoy your workshop!
-[anthonyborton](https://github.com/anthonyborton)
-
-_v1.0 Released June, 2023_
